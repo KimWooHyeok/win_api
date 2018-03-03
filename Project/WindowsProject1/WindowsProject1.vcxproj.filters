@@ -48,13 +48,16 @@
     <Image Include="WindowsProject1.ico">
       <Filter>리소스 파일</Filter>
     </Image>
-    <Image Include="bitmap1.bmp">
-      <Filter>리소스 파일</Filter>
-    </Image>
     <Image Include="resource.bmp">
       <Filter>리소스 파일</Filter>
     </Image>
-    <Image Include="imgrsc.png">
+    <Image Include="background.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="sky.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="pngresource.png">
       <Filter>리소스 파일</Filter>
     </Image>
   </ItemGroup>

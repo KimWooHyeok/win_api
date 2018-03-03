@@ -165,9 +165,10 @@
     <ResourceCompile Include="WindowsProject1.rc" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="bitmap1.bmp" />
-    <Image Include="imgrsc.png" />
+    <Image Include="background.png" />
+    <Image Include="pngresource.png" />
     <Image Include="resource.bmp" />
+    <Image Include="sky.png" />
     <Image Include="small.ico" />
     <Image Include="WindowsProject1.ico" />
   </ItemGroup>
